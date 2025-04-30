@@ -1,0 +1,35 @@
+Weather in London (GB):
+Temperature: 25.22°C
+Weather: Few clouds
+Humidity: 35%
+Wind Speed: 5.66 m/s
+
+----------------------------------------
+Weather in Paris (FR):
+Temperature: 27.86°C
+Weather: Clear sky
+Humidity: 31%
+Wind Speed: 3.6 m/s
+
+----------------------------------------
+Weather in Berlin (DE):
+Temperature: 22.46°C
+Weather: Clear sky
+Humidity: 45%
+Wind Speed: 3.6 m/s
+
+----------------------------------------
+Weather in Los Angeles (US):
+Temperature: 14.6°C
+Weather: Haze
+Humidity: 85%
+Wind Speed: 3.09 m/s
+
+----------------------------------------
+Weather in Sarajevo (BA):
+Temperature: 22.95°C
+Weather: Few clouds
+Humidity: 38%
+Wind Speed: 3.09 m/s
+
+----------------------------------------

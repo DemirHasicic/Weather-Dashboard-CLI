@@ -1,0 +1,5 @@
+Weather in Sarajevo (BA):
+Temperature: 22.95°C
+Weather: Few clouds
+Humidity: 38%
+Wind Speed: 3.09 m/s
