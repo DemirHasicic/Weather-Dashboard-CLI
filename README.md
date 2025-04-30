@@ -19,6 +19,20 @@ A simple Python project that fetches real-time weather data for any city using t
 - Uses `.env` to securely store API keys 🔐
 
 ---
+---
+
+## 🔐 Environment Configuration and API Key Management
+
+This project uses a `.env` file to securely store sensitive configuration values — specifically, the OpenWeatherMap API key.
+
+To protect your credentials and follow best practices:
+- The `.env` file is listed in `.gitignore` and is **not tracked by Git**, ensuring your API key stays private.
+- A template file called `.env.example` is included in the repo to show the expected format.
+
+To run this project:
+1. Copy `.env.example` → rename to `.env`
+2. Paste your own API key:
+
 
 ## 🛠 Technologies Used
 
