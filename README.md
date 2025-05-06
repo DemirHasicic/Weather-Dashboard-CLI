@@ -50,3 +50,20 @@ Weather: Few clouds
 Humidity: 38%
 Wind Speed: 3.09 m/s
 
+
+## 🔄 Extended RESTful API Demonstrations
+
+This project now includes a `restful_methods/` directory showcasing additional RESTful HTTP methods and basic testing examples using public mock APIs (like JSONPlaceholder):
+
+| Method     | Script                     | Description                                      |
+|------------|----------------------------|--------------------------------------------------|
+| `GET`      | `weather_fetcher.py`       | Fetches live weather data                        |
+| `POST`     | `post_example.py`, `test_post_example.py` | Sends mock data and validates creation  |
+| `PUT`      | `put_example.py`, `test_put_example.py`   | Fully updates mock resource and checks result    |
+| `PATCH`    | `patch_example.py`, `test_patch_example.py`| Partially updates resource, verifies response    |
+| `DELETE`   | `delete_example.py`, `test_delete_example.py`| Deletes mock post and validates status code  |
+| `HEAD/OPTIONS` | `head_options_example.py`, `test_head_options_example.py` | Inspects metadata and allowed methods |
+
+These examples show both manual interaction with APIs and automated functional testing using `pytest`.
+
+
